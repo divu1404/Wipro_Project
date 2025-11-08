@@ -28,7 +28,7 @@ ShopForHome is a full‑stack e‑commerce application developed as the capstone
 ### Setup Steps  
 1. Clone the repo:  
    ```bash
-   git clone https://github.com/yash0672/Wirpo_Capstone_Project.git
+   git clone 'repo_link'
    ```  
 2. Configure database:  
    - Create a MySQL database (e.g., `shopforhome_db`)  
@@ -83,4 +83,4 @@ This project is licensed under the MIT License (or whichever you prefer).
 _See `LICENSE` file for details._
 
 ## 📝 Contact  
-For queries or feedback, contact [yash@example.com].
+For queries or feedback, contact [divyamahapatra321@gmail.com].
